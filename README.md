@@ -16,5 +16,5 @@ Assessing data
 Cleaning data
 Storing, analyzing, and visualizing the wrangled data
 
-Reporting on my data analyses and visualizations (act_report.pdf)
+Reporting on my data analyses and visualizations (Twitter_act_report.pdf)
 
